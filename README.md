@@ -24,4 +24,8 @@ Olá mundo!!!
   <a href="https://www.instagram.com/raffizmc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/raffiz-mc-242b2a217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
+  
 ##
+
+  Estudante da vida... Com experiência em programção de desenvolvimento de WebSite!!! Apaixonado por python e hacking<br>
+  ~~BugBusters
