@@ -9,6 +9,8 @@ Olá mundo!!!
 </div>
 
 <div>
+  <label>Linguagens que sou fluente...
+  <br>
   <img height="30" alt="Raffiz logo-tech" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
   <img height="30" alt="Raffiz logo-tech" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
   <img height="30" alt="Raffiz logo-tech" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -21,6 +23,7 @@ Olá mundo!!!
  ##
  
  <div>
+   <label>Como você pode me encontrar! <br>
     <a href="https://www.youtube.com/channel/UCYlE4TGBcR8uEka62j_Z-yw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/raffizmc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/raffiz-mc-242b2a217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -28,6 +31,6 @@ Olá mundo!!!
   
 ##
 
-  Estudante da vida... Com experiência em programção de desenvolvimento de WebSite!!! Apaixonado por Python e Hacking.<br>
+  Estudante da vida... Apaixonado por Python e Hacking.<br>
   ~~BugBusters<br>
-  ~~sudo pacman -Syyu your-life
+  ~~sudo pacman -Syu your-life
