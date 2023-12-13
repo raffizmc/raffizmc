@@ -25,8 +25,7 @@ Eu trabalho com marcenaria mas estou buscando meu primeiro trabalho de forma int
 
 ![ASSEMBLY](https://img.shields.io/badge/_-ASM-6E4C13.svg?style=for-the-badge) - (em processo)
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/raffizmc.png" alt="TryHackMe">
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/RafF1zft.dll.png" alt="TryHackMe">
 ##
 
 ### $- Meu portfólio -$
