@@ -1,8 +1,8 @@
 # Olá mundo! Eu sou o Raffiz
-### Sou um hacker ético que ama um bom desafio! Usuário de [Slackware](https://img.shields.io/badge/-Slackware-%231357BD?style=for-the-badge&logo=slackware&logoColor=white)
+### Sou um hacker ético que ama um bom desafio! Usuário de [![Slackware](https://img.shields.io/badge/-Slackware-%231357BD?style=for-the-badge&logo=slackware&logoColor=white)](http://www.slackware.com/)
 
 Comecei cedo na programação com meu arduino com 16 anos, desde então venho
-fazendo umas experiências mas nunca satifeito com o meu conhecimento... Comecei estudando c++ e cada vez mais fui me apaixonando por baixo-nível.
+fazendo umas experiências mas nunca satisfeito com o meu conhecimento... Comecei estudando c++ e cada vez mais fui me apaixonando por baixo-nível.
 
 Atualmente parei de estudar programação e hacking para focar no meu estudo em Alemâo.
 Eu trabalho com marcenaria mas estou buscando meu primeiro trabalho de forma integral!
@@ -39,3 +39,5 @@ Eu trabalho com marcenaria mas estou buscando meu primeiro trabalho de forma int
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:raffizmc@proton.me)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raffizmc/)
+
+##
