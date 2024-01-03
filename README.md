@@ -1,11 +1,14 @@
-# Olá mundo! Eu sou o Raffiz
-### Sou um hacker ético que ama um bom desafio! Usuário de [![Slackware](https://img.shields.io/badge/-Slackware-%231357BD?style=for-the-badge&logo=slackware&logoColor=white)](http://www.slackware.com/)
 
-Comecei cedo na programação com meu arduino com 16 anos, desde então venho
-fazendo umas experiências mas nunca satisfeito com o meu conhecimento... Comecei estudando c++ e cada vez mais fui me apaixonando por baixo-nível.
+# Hallo! Eu sou o Raffiz, um entusiasta da tecnologia e apaixonado por desafios éticos! Sou adepto do [![Slackware](https://img.shields.io/badge/-Slackware-%231357BD?style=for-the-badge&logo=slackware&logoColor=white)](http://www.slackware.com/)!
 
-Atualmente parei de estudar programação e hacking para focar no meu estudo em Alemâo.
-Eu trabalho com marcenaria mas estou buscando meu primeiro trabalho de forma integral!
+
+Iniciei minha jornada na programação aos 16 anos, explorando o universo do Arduino. Desde então, tenho realizado diversas experiências, sempre em busca de aprimorar meu conhecimento. Meu caminho começou com o estudo de C++, e ao longo do tempo, desenvolvi uma paixão pelo entendimento em níveis mais profundos.
+
+Embora tenha interrompido temporariamente meus estudos em programação e hacking, meu foco atual é o aprimoramento do meu conhecimento em alemão. Paralelamente, trabalho com marcenaria, mas estou em busca de oportunidades para minha transição para um trabalho integral na área de tecnologia. O aprendizado é constante, e estou ansioso para os desafios que o futuro me reserva!
+
+##
+![Gif Alone Code](https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif)
+##
 
 ![Raffiz GitHub stats](https://github-readme-stats.vercel.app/api?username=rafF1z-ft&theme=holi&border_radius=50&show_icons=true)
 
@@ -31,7 +34,7 @@ Eu trabalho com marcenaria mas estou buscando meu primeiro trabalho de forma int
 ##
 
 ### $- Meu portfólio -$
-(em construção)
+(em processo)
 
 ## 
 
