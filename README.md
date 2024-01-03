@@ -7,7 +7,7 @@ fazendo umas experiências mas nunca satisfeito com o meu conhecimento... Comece
 Atualmente parei de estudar programação e hacking para focar no meu estudo em Alemâo.
 Eu trabalho com marcenaria mas estou buscando meu primeiro trabalho de forma integral!
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Raffiz&theme=holi&border_radius=50&show_icons=true)
+![Raffiz GitHub stats](https://github-readme-stats.vercel.app/api?username=rafF1z-ft&theme=holi&border_radius=50&show_icons=true)
 
 ##
 
