@@ -1,4 +1,9 @@
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=10&color=292929&width=435&lines=Seja+Bem-vindo!;)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=10&color=292929&width=100&lines=.+.+.;)](https://git.io/typing-svg)
+
+
 # Hallo! Eu sou o Raffiz, um entusiasta da tecnologia e apaixonado por desafios éticos! Sou adepto do [![Slackware](https://img.shields.io/badge/-Slackware-%231357BD?style=for-the-badge&logo=slackware&logoColor=white)](http://www.slackware.com/)!
 
 
