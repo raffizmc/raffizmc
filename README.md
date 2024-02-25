@@ -51,5 +51,5 @@ Embora tenha interrompido temporariamente meus estudos em programação e hackin
 
 ##
 
-![Alt text](./Certificado.png"Título opcional")
+![Alt text](./Certificado.png "Título opcional")
 
