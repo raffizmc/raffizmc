@@ -9,8 +9,8 @@
 
 Iniciei minha jornada na programação aos 16 anos, explorando o universo do Arduino. Desde então, tenho realizado diversas experiências, sempre em busca de aprimorar meu conhecimento. Meu caminho começou com o estudo de C++, e ao longo do tempo, desenvolvi uma paixão pelo entendimento em níveis mais profundos.
 
-Embora tenha interrompido temporariamente meus estudos em programação e hacking, meu foco atual é o aprimoramento do meu conhecimento em alemão. Paralelamente, trabalho com marcenaria, mas estou em busca de oportunidades para minha transição para um trabalho integral na área de tecnologia. O aprendizado é constante, e estou ansioso para os desafios que o futuro me reserva!
-
+Atualmente, tenho dedicado parte do meu tempo ao aprimoramento das habilidades em Cybersecurity e ao domínio da língua alemã. Paralelamente, mantenho atividades na área de marcenaria, embora esteja direcionando meus esforços para uma transição integral para o campo da tecnologia.
+O aprendizado é contínuo, e estou ansioso para os desafios que o futuro me reserva!
 ##
 ![Gif Alone Code](https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif)
 ##
