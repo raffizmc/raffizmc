@@ -41,14 +41,6 @@ O aprendizado é contínuo, e estou ansioso para os desafios que o futuro me res
 ### $- Meu portfólio -$
 (em processo)
 
-## 
-
- Me contate:
- 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:raffizmc@proton.me)
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raffizmc/)
-
 ##
 
 ![Alt text](./Certificado.png "Título opcional")
