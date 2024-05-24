@@ -1,6 +1,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=10&color=292929&width=435&lines=Seja+Bem-vindo!;)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=10&color=292929&width=435&lines=Herzlich+Willkommen!;)](https://git.io/typing-svg)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=10&color=292929&width=100&lines=.+.+.;)](https://git.io/typing-svg)
 
 
