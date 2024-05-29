@@ -5,6 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=10&color=292929&width=100&lines=.+.+.;)](https://git.io/typing-svg)
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/RafF1zft.dll.png" alt="TryHackMe">
 
 # Hallo! Eu sou o Raffiz, um entusiasta da tecnologia e apaixonado por desafios éticos! Sou adepto do [![Slackware](https://img.shields.io/badge/-Slackware-%231357BD?style=for-the-badge&logo=slackware&logoColor=white)](http://www.slackware.com/)!
 
@@ -35,8 +36,6 @@ O aprendizado é contínuo, e estou ansioso para os desafios que o futuro me res
 [![TryHackme](https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white)](https://tryhackme.com/p/RafF1zft.dll)
 
 [![ASSEMBLY](https://img.shields.io/badge/_-ASM-6E4C13.svg?style=for-the-badge)](https://github.com/yds12/x64-roadmap) - (em processo)
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/RafF1zft.dll.png" alt="TryHackMe">
 
 ##
 
