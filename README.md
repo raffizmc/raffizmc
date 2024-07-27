@@ -36,7 +36,9 @@ Estou sempre em busca de novos desafios e oportunidades de crescimento! O aprend
 
 ##
 
-###  - Meu portfólio - 
+### - Meu portfólio - 
+
+(Meu portfólio está aberto, mas ainda está em processo de construção e não está totalmente finalizado.)
 
 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://raffizmc.netlify.app)
 
