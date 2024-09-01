@@ -2,19 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=10&color=292929&width=435&lines=Herzlich+Willkommen!;)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=10&color=292929&width=100&lines=.+.+.;)](https://git.io/typing-svg)
-
-# Hallo! Eu sou o Raffiz, um entusiasta da tecnologia e apaixonado por desafios éticos! Sou CYBERESTRATEGISTA!!!
-
-Iniciei minha jornada na programação aos 16 anos com Arduino e C++. Desde então, desenvolvi uma paixão por tecnologia de baixo nível e Cybersecurity. Também estudo alemão e mantenho atividades em marcenaria, enquanto me preparo para uma transição completa para a tecnologia.
-
-Além disso, estou iniciando minha influência na língua inglesa para expandir ainda mais minhas habilidades e oportunidades. 
-
-Estou sempre em busca de novos desafios e oportunidades de crescimento! O aprendizado é contínuo, e estou ansioso para os desafios que o futuro me reserva!
-
 ##
 
+# Hallo! Eu sou o Raffiz, um entusiasta da tecnologia e apaixonado por desafios éticos !!! 
+
 ![Gif Alone Code](https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif)
+
 ##
 
 ![Raffiz GitHub stats](https://github-readme-stats.vercel.app/api?username=raffizmc&theme=holi&border_radius=50&show_icons=true)
@@ -48,7 +41,7 @@ Estou sempre em busca de novos desafios e oportunidades de crescimento! O aprend
 
 Busquei cursos de alta qualidade que se ajustassem ao meu orçamento e encontrei a DIO, onde me tornei PRO na plataforma. Completei diversos cursos, com destaque para o de Cybersecurity Specialist.
 
-Atualmente, estou participando de um curso avançado em Assembly e Game Hacking, com duração de 1 ano. Estou totalmente dedicado ao aprendizado e ao desenvolvimento dessas habilidades. Planejo atualizar meu portfólio com os resultados desses estudos em breve.
+Atualmente, estou participando de um curso avançado em Assembly e Game Hacking. Estou totalmente dedicado ao aprendizado e ao desenvolvimento dessas habilidades. Planejo atualizar meu portfólio com os resultados desses estudos em breve. Em paralelo estou me certificando com SYCP!!!
 
 ![Certificado](./Certificado.png "Certificado de Conclusão")
 
