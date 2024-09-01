@@ -17,7 +17,7 @@ Estou sempre em busca de novos desafios e oportunidades de crescimento! O aprend
 ![Gif Alone Code](https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif)
 ##
 
-![Raffiz GitHub stats](https://github-readme-stats.vercel.app/api?username=rafF1z-ft&theme=holi&border_radius=50&show_icons=true)
+![Raffiz GitHub stats](https://github-readme-stats.vercel.app/api?username=raffizmc&theme=holi&border_radius=50&show_icons=true)
 
 ##
 
