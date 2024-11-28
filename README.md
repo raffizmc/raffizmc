@@ -15,7 +15,7 @@
 [![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://codeburst.io/your-perfect-kickstart-to-shell-scripting-857b81c0939b)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white)](https://tryhackme.com/r/p/r4ff1z.dll)
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/RafF1zft.dll.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/r4ff1z.dll.png" alt="TryHackMe">
 
 ---
 
