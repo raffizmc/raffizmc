@@ -21,7 +21,7 @@
 
 ### Meu Portfólio
 
-[![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://raffizmc.netlify.app)
+<!--[![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://raffizmc.netlify.app) -->
 
 *Observação: Meu portfólio está em construção e será atualizado em breve.*
 
